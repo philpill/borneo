@@ -6,15 +6,15 @@ permalink: /turtle-island
 Turtle Day!
 We left the hotel today at 8:30 to wait for the boat. There were quite a few tourists sat around the harbour, with suitcases and things, all waiting for the same thing, I guess. Danielle had a bit of a kerfuffle with her tour company to get things arranged so she could come with us.
 
-![](/assets/harbour-1024x768.jpg "harbour")
+![](/assets/harbour.jpg "harbour")
 
 We all sat around for a while, chatting and watching the fishermen prep their boat for another day at sea.
 
-![](/assets/fishermen-1024x768.jpg "fishermen")
+![](/assets/fishermen.jpg "fishermen")
 
 Our boat eventually arrived (Crystal Quest V!), and we took a choppy ride out to sea. The weather wasn't great, and we were hoping it wouldn't get so bad as to dissuade the turtles from heading ashore to lay their eggs tonight.
 
-![](/assets/boat1-1024x768.jpg "boat")
+![](/assets/boat1.jpg "boat")
 
 After quite a long journey, we made land and checked the big turtle board, which had listed the dates and times of all the turtles which'd recently come ashore, along with the number of eggs they'd laid. It was pretty cool.
 
