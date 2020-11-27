@@ -12,3 +12,5 @@ permalink: /seaside-inn
 - went to cocktail bar
 - woke up at 3:45 to leave at 4:20 to airport
 - taxi - Mr Lai
+
+Check out my photos of the trip at: [flickr](https://www.flickr.com/photos/philpill/albums/72157644185135152).
