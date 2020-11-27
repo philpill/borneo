@@ -12,3 +12,5 @@ The area I'd be visiting would be the state of [Sabah](http://en.wikipedia.org/w
 
 So what's the big draw? As previously mentioned, there is the trek to summit Mt Kinabalu (4095m) - one which will take you through the humid jungles to the frozen peaks with all sorts of flora and fauna to see along the way. Then there is the [orang-utan](http://en.wikipedia.org/wiki/Orangutan) sanctuary. Orang-utans no longer exist anywhere but a few places on Earth, one of which being Malaysia (the other Being Sumatra). However, of most interest to me was the turtle conservation - a place to watch turtles come ashore to lay their eggs by moonlight.
 
+A quick mention to visas: [no need for a visa](https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements) to travel from UK to Borneo
+
