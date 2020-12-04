@@ -6,6 +6,8 @@
 
 $color-grey: #999;
 $color-white: #fff;
+$color-black: #222;
+$color-pale-blue: #79c;
 
 body { 
     font-family: 'Lato', sans-serif;
@@ -90,6 +92,7 @@ img {
         background: $color-white;
         display: flex;
         align-items: center;
+        z-index: 1;
     }
     h1 {
         font-size: 1rem;
@@ -110,6 +113,7 @@ img {
         height: calc(100vh - 3.5rem);
         overflow: auto;
         width: 15rem;
+        z-index: 1;
     }
     #is-nav-visible:checked+.navigation {
         display: block;
@@ -117,5 +121,23 @@ img {
     .content {
         margin-top: 3rem;
         max-width: initial;
+    }
+}
+
+@media(prefers-color-scheme: dark) {
+    body,
+    .navigation,
+    header,
+    .header-nav {
+        background-color: $color-black;
+    } 
+    body {
+        color: $color-grey;
+    }
+    a:link {
+        color: $color-pale-blue;
+    }
+    img {
+      filter: grayscale(50%);
     }
 }
