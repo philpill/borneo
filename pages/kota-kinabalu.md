@@ -9,7 +9,7 @@ I had my usual luggage of one huge bag and no hand luggage. Jackie had two rucks
 
 The flight was with Malayasia Air, who had [lost a plane](http://www.bbc.co.uk/news/world-asia-26847402) somewhere around the Indian Ocean a week or two previously. Nothing to worry about, I'm sure ... what would be the chances of losing two planes?
 
-[![http://www.bbc.co.uk/news/world-asia-26847402](/assets/mh370.jpg)](http://www.bbc.co.uk/news/world-asia-26847402)
+[![http://www.bbc.co.uk/news/world-asia-26847402](/assets/optimised/mh370.jpg)](http://www.bbc.co.uk/news/world-asia-26847402)
 
 The flight was very well catered - lots of movies to watch and the food wasn't too bad. There was a period which was declared 'bedtime', when all the lights were out and everyone went to sleep. I didn't really understand this, being that it was night time in neither UK nor Borneo. Towards the end of the flight, I started getting a bit of a headache from the air-conditioning. I'm not sure Jackie slept at all.
 
@@ -18,11 +18,11 @@ Arriving at Kuala Lumpur, we only had an hour or so to catch the next flight and
 
 On landing in Kota Kinabalu, a member of airport staff approached to tell us one of our bags was not on the flight - it had been mis-directed, but was assured that would be on the next flight and would be forwarded to our hotel. Seems like the way everyone talked about it, it was a common occurrence and would be nothing to worry about.
 
-![Kota Kinabalu Map](/assets/kotakinabalu3.jpg)
+![Kota Kinabalu Map](/assets/optimised/kotakinabalu3.jpg)
 
 So, with nothing else we could do, we carried on outside to look for a man with a sign ... we met Mr Lai, who would be our local and regular taxi driver. We waited a while for Crystal to arrive from Singapore before we all drove to the [Shangri La hotel](http://www.tripadvisor.co.uk/Hotel_Review-g298307-d627694-Reviews-Hotel_Shangri_La_Kota_Kinabalu-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division.html) in town, where we checked in and had a good two hour kip. At which point my bag was awaiting me in the lobby!
 
-![donny](/assets/donny.jpg)
+![donny](/assets/optimised/donny.jpg)
 
 We were instructed to head down to the lobby at 6 to meet the guide (Donny) and the other trekkers and was meant to be having our meeting in the restaurant, but a function meant we were to reconvene in Donny's room instead.
 

@@ -9,21 +9,21 @@ A hundred people were all setting off to the summit about this time, and it took
 
 I regaled (pissed off) everyone (Dave) by talking endlessly about how there would always be a Justin Bieber-like figure for teenage girls to adore. This went on for half an hour before everyone (Dave) just ignored me and we walked on into the darkness.
 
-![](/assets/night.jpg)
+![](/assets/optimised/night.jpg)
 
 About 4:00 we reached Seyat-Seyat hut. I forget what the significance of this hut was, but it was a checkpoint to make sure we were running on schedule. We were half an hour early.
 
 It was probably round about this point that the vegetation morphed into a rockier landscape and we would start having to follow the guide rope up. I found this quite fun. A series of ropes lead up to the summit, which you use traverse the trickier sections of rock.
 
-![](/assets/sunrise.jpg)
+![](/assets/optimised/sunrise.jpg)
 
 The group (and about thirty others) reached the summit right on time, for sunrise around 6:00. A perfect sky for the sun to rise.
 
-![](/assets/summit.jpg)
+![](/assets/optimised/summit.jpg)
 
 Everyone took many photos, while jostling for position on the big pile of rocks. We stayed up there maybe half an hour before heading back down again.
 
-![](/assets/descent.jpg)
+![](/assets/optimised/descent.jpg)
 
 It wasn't really till now, in the daylight, that we could appreciate the beautiful scenery of the mountains around us, and forest below. We returned to Laban Rata for 8:00. Some more food, some rest, some coffee, packed up our gear, more coffee. We waited for everyone to collect together, and we left at 9:45 to get back to the bottom.
 
@@ -37,7 +37,7 @@ We finally reached Timpohon Gate at 13:20 where we signed out of the trail. Cons
 
 We arrived at Poring around 3. There wasn't much to this town - it seems like the town consisted of a single main road on which sat the famous hot springs. Incidentally, this was also local to Donny's hometown, having grown up in a nearby neighbourhood.
 
-![](/assets/roundinn.jpg)
+![](/assets/optimised/roundinn.jpg)
 
 Our hostel - the Round Inn, was directly opposite to the hot springs, across the road. This was a cheap stay, but Donny assures us this was the best in the area. However, I'm not sure if this was some sort of act of sadism on Donny's part, but the entrance to our rooms was via some steep, rickety stairs - there wasn't a single one of our group who wasn't wincing in pain after the mountain descent.
 

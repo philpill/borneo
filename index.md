@@ -1,4 +1,4 @@
-![](/assets/borneo.png "source: wikipedia.org") 
+![](/assets/optimised/borneo.png "source: wikipedia.org") 
 
 A trip to Borneo would be slightly different to my previous treks. Though Borneo is home to the popular [Mt Kinabalu](http://en.wikipedia.org/wiki/Mount_Kinabalu), there are many other reasons to visit besides trekking up mountains. The main draw for me was the jungle and the many wildlife sanctuaries found in and around the island.
 

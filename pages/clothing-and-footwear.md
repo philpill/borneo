@@ -3,7 +3,7 @@ title: Clothing
 permalink: /clothing-and-footwear
 ---
 
-![](/assets/IMG_1855.jpg "clothes")
+![](/assets/optimised/IMG_1855.jpg "clothes")
 
 - 3 x pairs of convertible trekking trousers
 - 1 x pair of waterproof trousers
@@ -13,7 +13,7 @@ permalink: /clothing-and-footwear
 - pyjamas
 - many pairs of socks
 
-![](/assets/IMG_1856.jpg "outer layers")
+![](/assets/optimised/IMG_1856.jpg "outer layers")
 
 - shell jacket
 - midlayer jacket

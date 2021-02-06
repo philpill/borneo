@@ -2,7 +2,7 @@
 title: Equipment
 permalink: /equipment
 ---
-![](/assets/IMG_1857.jpg "equipment")
+![](/assets/optimised/IMG_1857.jpg "equipment")
 
 - Hand warmers
 - Spare laces
@@ -19,7 +19,7 @@ permalink: /equipment
 - Electrolyte tablets
 - Compact rucksack
 
-![](/assets/IMG_20140326_221348.jpg "equipment")
+![](/assets/optimised/IMG_20140326_221348.jpg "equipment")
 
 - Kindle
 - Camera

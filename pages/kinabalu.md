@@ -2,7 +2,7 @@
 title: Kinabalu
 permalink: /kinabalu
 ---
-![](/assets/MountKinabalu.jpg "amazingmalaysiaa.blogspot.co.uk")
+![](/assets/optimised/MountKinabalu.jpg "amazingmalaysiaa.blogspot.co.uk")
 
 [Mount Kinabalu](http://en.wikipedia.org/wiki/Mount_Kinabalu) will be on the agenda on the fourth day of our trek. At 4095m, I don't think I'll need Diamox - I've been higher with few altitude worries. The only minor annoyance is I'll be having to pack extra cold weather clothing especially for this portion of the trip.
 

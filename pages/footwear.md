@@ -2,7 +2,7 @@
 title: Footwear
 permalink: /footwear
 ---
-![](/assets/IMG_1854.jpg)
+![](/assets/optimised/IMG_1854.jpg)
 
 My usual assortment of boots and shoes and socks:
 

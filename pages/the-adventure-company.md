@@ -2,7 +2,7 @@
 title: The Adventure Company
 permalink: /the-adventure-company
 ---
-[![](/assets/adventure.jpg "adventure")](http://www.adventurecompany.co.uk/tours/sabah-adventure)
+[![](/assets/optimised/adventure.jpg "adventure")](http://www.adventurecompany.co.uk/tours/sabah-adventure)
 
 As always, I've booked with the Adventure Company. This time I'll be going with Jackie who I trekked with, up Mount Kilimanjaro and as we've both had good previous experiences with the AdCo. we saw no reason not to go with them again.
 

@@ -2,7 +2,7 @@
 title: Toiletries
 permalink: /toiletries
 ---
-[![](/assets/IMG_1859.jpg "toiletries")](http://borneo.industrialnation.co.uk/wp-content/uploads/2014/03/IMG_1859.jpg)
+[![](/assets/optimised/IMG_1859.jpg "toiletries")](http://borneo.industrialnation.co.uk/wp-content/uploads/2014/03/IMG_1859.jpg)
 
 Clockwise (from left):
 

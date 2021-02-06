@@ -7,13 +7,13 @@ permalink: /mount-kinabalu
 
 Breakfast at the restaurant was a simple buffet affair, with lots of other groups around us also getting ready to head out. We were given our passes (which we'd need at each checkpoint to prove we we'd paid for permits and whatnot) and our packed lunch, which consisted of some shitty-jam sandwiches, apple and bottle of water.
 
-![](/assets/pass.jpg)
+![](/assets/optimised/pass.jpg)
 
 The sandwiches were pretty horrible-looking and a few in the group elected to leave them behind. Some of us were having problems packing everything we needed into our bags, and Fred gave me his bottle of water and apple.
 
 There were quite a lot of GoPro cameras being waved about which has since put me off using mine a bit.
 
-![](/assets/timpohon.jpg "Timpohon")
+![](/assets/optimised/timpohon.jpg "Timpohon")
 
 After breakfast, we got on the bus to Timpohon Gate (1866m) which was actually a fair way from the entrance to the park - you wouldn't want to walk that distance on the way back!
 
@@ -21,15 +21,15 @@ The trail was steep to begin with - up lots of well-built walkways and steps. Th
 
 By 11 o' clock we'd reached 2634m and stopped for lunch.
 
-![](/assets/eleven.jpg)
+![](/assets/optimised/eleven.jpg)
 
 The trail wasn't really so bad. It was hot and humid, and there were little refuges all the way, with toilets, benches and info boards about the local flora and fauna. I didn't realise till I was doing some research just now that the big green tanks you see in the photos are filled with rainwater. These were also at every refuge, but we were told to take our own as there was no knowing what might've gotten into those tanks (like dead rats, says Donny).
 
-![](/assets/refuge.jpg)
+![](/assets/optimised/refuge.jpg)
 
 As we were climbing, we noticed the clouds were closing in. We must have been literally on the edge of a raincloud as we (the first half-group) managed to make it into Laban Rata just as it started to rain, at 13:20. Unfortunately, this would mean the others would be suffering the rain, but it wouldn't be too long before they all, too, made it in.
 
-![](/assets/labanrata1.jpg "Laban Rata Arrival")
+![](/assets/optimised/labanrata1.jpg "Laban Rata Arrival")
 
 Upon arrival, you step into a big cafe affair, which looks completely at odds with the nature you've just hiked through. There're lots of pictures covering every wall, and the place is crowded with trekkers looking like they're on their way to camp at a music festival. An open kitchen takes up fully a quarter of the room, and the smells were incredible after our terrible lunch and long hike. For some reason, I remember the smell was of pancakes ...
 
@@ -37,7 +37,7 @@ Officer Andrew picked up our keys to our shared dorms and we were handed 2, plus
 
 It was pretty tempting to go off for a nap, but given dinner would be but a few hours away, I knew it'd be futile. So we all went off to pack/unpack and wash and things. Shower was amazingly cold and there was only two showers and two toilets in the gents for the hundred people (capacity) staying at Laban Rata, but I managed to get a wash in. After the humid day of trekking covered in bug spray and sun block, it was a welcome relief.
 
-![](/assets/bunk.jpg)
+![](/assets/optimised/bunk.jpg)
 
 Dinner was to be 16:30, with briefing to follow. We would set off for the summit at 2:30 in the morning, so we wouldn't get much chance to sleep tonight. As it turns out, I wouldn't sleep much anyway - I was having an (unfounded) worry about bedbugs and felt a bit too chilled to fall asleep.
 
@@ -51,21 +51,21 @@ A hundred people were all setting off to the summit about this time, and it took
 
 I regaled (pissed off) everyone (Dave) by talking endlessly about how there would always be a Justin Bieber-like figure for teenage girls to adore. This went on for half an hour before everyone (Dave) just ignored me and we walked on into the darkness.
 
-![](/assets/night.jpg)
+![](/assets/optimised/night.jpg)
 
 About 4:00 we reached Seyat-Seyat hut. I forget what the significance of this hut was, but it was a checkpoint to make sure we were running on schedule. We were half an hour early.
 
 It was probably round about this point that the vegetation morphed into a rockier landscape and we would start having to follow the guide rope up. I found this quite fun. A series of ropes lead up to the summit, which you use traverse the trickier sections of rock.
 
-![](/assets/sunrise.jpg)
+![](/assets/optimised/sunrise.jpg)
 
 The group reached the summit right on time (and about thirty others), for sunrise around 6:00.
 
-![](/assets/summit.jpg)
+![](/assets/optimised/summit.jpg)
 
 Everyone took many photos, while jostling for position on the big pile of rocks. We stayed up there maybe half an hour before heading back down again.
 
-![](/assets/descent.jpg)
+![](/assets/optimised/descent.jpg)
 
 It wasn't really till now, in the daylight, that we could appreciate the beautiful scenery of the mountains around us, and forest below. We returned to Laban Rata for 8:00. Some more food, some rest, some coffee, packed up our gear, more coffee. We waited for everyone to collect together, and we left at 9:45 to get back to the bottom.
 

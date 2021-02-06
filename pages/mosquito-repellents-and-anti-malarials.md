@@ -6,23 +6,23 @@ I think the worse place I've ever been for mosquito bites was Ankhara, Turkey. I
 
 A close second was probably while we were camping at Fontainebleau, France in the summer. I needed to go for a wizz in the middle of the night so I foolishly left my tent and went into the woods ...
 
-![](/assets/IMG_20130816_114458.jpg "mosquito bite")
+![](/assets/optimised/IMG_20130816_114458.jpg "mosquito bite")
 
 I seem to have a god-awful reaction to insect bites - they linger and itch for ages, so for last year's trip to Tanzania, Africa, I was expecting the worst. I packed out with [Malarone](http://www.industrialnation.co.uk/kili/vaccinations/) and [mosquito repellent](http://www.industrialnation.co.uk/kili/toiletries/) and .... I saw _one_ mosquito. We squashed it before going to sleep.
 
 In spite of that, however, I'm taking no chances this year. According to [Travel Doctor,](http://www.traveldoctor.co.uk/malaria.htm) Sabah, Borneo is described as "Risk substantial. Chloroquine resistance common."
 
-![](/assets/IMG_1851.jpg "mosquito repellent")
+![](/assets/optimised/IMG_1851.jpg "mosquito repellent")
 
 The repellents were actually from last year (hopefully they won't have expired or anything) and the bite gel I got while I was at [Nomad](http://www.nomadtravel.co.uk/c-4-travel-health-clinic.aspx), picking up my anti-malarials. Speaking of which ...
 
-![](/assets/IMG_1850.jpg "anti-malarials")
+![](/assets/optimised/IMG_1850.jpg "anti-malarials")
 
 Apparently, the patent for Malarone has recently expired, so the generic version ([http://en.wikipedia.org/wiki/Atovaquone/proguanil](Atovaquone/proguanil)) is now available, alledgedly for cheaper, but I swear they were the same price as the Malarone I bought last year (about £80 for a fortnight's worth). To be taken one per day, starting 1 day before I leave and carrying on for a week after I return. I've never had any side effects with Malarone, so I'll be pretty happy with these - I've heard horror stories of people hallucinating after taking the other kinds.
 
 Also coming along for the anti-mosquito party is my brand new mosquito net, to keep those pesky bugs at bay while I'm sleeping.
 
-![](/assets/IMG_1853.jpg "mosquito net")
+![](/assets/optimised/IMG_1853.jpg "mosquito net")
 
 Time will tell as to how effective this thing is - it feels (and looks) like a cheap net curtain, and set me back about thirty quid from [Snow and Rock](http://www.snowandrock.com/lifesystems-micronet-single-mosquito-net/mosquito-nets/ski-snowboard-outdoor-sports/fcp-product/3330).
 
