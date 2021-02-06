@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link media="screen" rel="stylesheet" type="text/css" href="/static/css/normalize.css" />
     <link media="screen" rel="stylesheet" type="text/css" href="/static/css/main.css" />
-    <title>Borneo 2014: {{ page.title }}</title>
+    <title>{{ site.title }}: {{ page.title }}</title>
 </head>
 
 <body>
@@ -15,7 +15,7 @@
             <i class="header-menu"></i>
         </label>
         <h1>
-            <a href="/">Borneo 2014</a>
+            <a href="/">{{ site.title }}</a>
         </h1>
     </header>
     <div class="container">
@@ -25,7 +25,6 @@
             {{content}}
         </section>
     </div>
-    <script src="/static/js/main.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-RE9NKWTG6J"></script>
     <script>
