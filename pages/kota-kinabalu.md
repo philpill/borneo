@@ -9,7 +9,7 @@ I had my usual luggage of one huge bag and no hand luggage. Jackie had two rucks
 
 The flight was with Malayasia Air, who had [lost a plane](https://www.bbc.co.uk/news/world-asia-26847402) somewhere around the Indian Ocean a week or two previously. Nothing to worry about, I'm sure ... what would be the chances of losing two planes?
 
-[![http://www.bbc.co.uk/news/world-asia-26847402](/assets/optimised/mh370.jpg)](https://www.bbc.co.uk/news/world-asia-26847402)
+[![https://www.bbc.co.uk/news/world-asia-26847402](/assets/optimised/mh370.jpg)](https://www.bbc.co.uk/news/world-asia-26847402)
 
 The flight was very well catered - lots of movies to watch and the food wasn't too bad. There was a period which was declared 'bedtime', when all the lights were out and everyone went to sleep. I didn't really understand this, being that it was night time in neither UK nor Borneo. Towards the end of the flight, I started getting a bit of a headache from the air-conditioning. I'm not sure Jackie slept at all.
 
