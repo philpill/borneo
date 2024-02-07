@@ -29,7 +29,6 @@ repository: philpill/borneo.github.io
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
 exclude:
   - node_modules
   - vendor
