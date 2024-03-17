@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Taginambur
 date: "2014-03-31"
 permalink: /taginambur

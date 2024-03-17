@@ -1,4 +1,5 @@
 ---
+layout: default
 title: The Adventure Company
 permalink: /the-adventure-company
 ---

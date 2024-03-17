@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Descent and Poring
 date: "2014-04-02"
 permalink: /descent-and-poring

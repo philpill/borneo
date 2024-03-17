@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Seaside Inn
 date: "2014-04-08"
 permalink: /seaside-inn

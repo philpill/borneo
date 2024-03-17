@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Turtle Island
 date: "2014-04-06"
 permalink: /turtle-island

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Clothing
 permalink: /clothing-and-footwear
 ---

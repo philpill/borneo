@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Poring Hot Springs
 date: "2014-04-03"
 permalink: /poring-hot-springs

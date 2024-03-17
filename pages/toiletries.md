@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Toiletries
 permalink: /toiletries
 ---

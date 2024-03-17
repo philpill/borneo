@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Mosquito Repellents and Anti-Malarials
 permalink: /mosquito-repellents-and-anti-malarials
 ---

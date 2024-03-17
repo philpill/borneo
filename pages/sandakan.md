@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Sandakan
 date: "2014-04-05"
 permalink: /sandakan

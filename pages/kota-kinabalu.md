@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Kota Kinabalu
 date: "2014-03-30"
 permalink: /kota-kinabalu

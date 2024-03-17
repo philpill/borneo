@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Kinabatangan
 date: "2014-04-04"
 permalink: /kinabatangan-jungle-camp

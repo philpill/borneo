@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Kinabalu
 permalink: /kinabalu
 ---

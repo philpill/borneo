@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Sepilok
 date: "2014-04-07"
 permalink: /sepilok

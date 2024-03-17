@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Mount Kinabalu
 date: "2014-04-01"
 permalink: /mount-kinabalu
